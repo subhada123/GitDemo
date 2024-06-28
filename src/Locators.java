@@ -20,7 +20,9 @@ public class Locators {
 		System.out.println(driver.findElement(By.cssSelector(".error")).getText());
 		
 		//driver.close();
-		
+		System.out.println("Hello");
+		System.out.println("This is the update made to the clone program");
+		System.out.println("Yes it is true");
 	}
 
 }
