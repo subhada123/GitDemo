@@ -23,6 +23,12 @@ public class Locators {
 		System.out.println("Hello");
 		System.out.println("This is the update made to the clone program");
 		System.out.println("Yes it is true");
+		//cfys
+		//ssyqs
+		System.out.println("xxxxxxxxxxxx");
+		System.out.println("yyyyyyyyyy");
+		System.out.println("zzzzzzzzzz");
+		System.out.println("changes stage 2");
 	}
 
 }
